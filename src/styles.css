@@ -61,7 +61,6 @@ body {
   gap: 12px;
 }
 
-/* OPEN STATE */
 .open {
   border-top: 4px solid #087f5b;
 }
